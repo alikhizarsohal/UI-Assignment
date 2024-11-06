@@ -1,4 +1,4 @@
-# UI Assignment - Pixel Perfect Design
+# UI Training Assignment - Pixel Perfect Design
 
 This repository contains the source code for my UI assignment, completed during the first week of my internship at **Devsinc**. The project was based on a Figma design provided by the team and developed using **HTML** and **CSS** to achieve a pixel-perfect match with the design specifications.
 
@@ -33,7 +33,7 @@ To view and run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ui-assignment.git
+   git clone https://github.com/alikhizarsohal/ui-assignment.git
    ```
 
 2. **Navigate to the project folder**:
